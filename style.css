@@ -1,0 +1,12 @@
+* {
+  background-color: rgb(255, 170, 170);
+}
+
+#container {
+  display: grid;
+  grid-template-columns: 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px;
+}
+
+.content {
+  background-color: black;
+}
