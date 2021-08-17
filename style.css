@@ -4,7 +4,8 @@
 
 #container {
   display: grid;
-  grid-template-columns: 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px 45px;
+  width: 960px;
+  height: 960px;
 }
 
 .content {
